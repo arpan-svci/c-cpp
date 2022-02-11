@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\arpan mandal\documents\abc\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571249618 source:c:\users\arpan mandal\documents\abc\arpan.c
+	<stdio.h>
+

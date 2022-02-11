@@ -1,0 +1,7 @@
+Array
+(Any five assignments)
+1. Write a program in C to reverse the contents of the elements of an integer array.
+2. Write a program in C to read n number of values in an array. After that, count the total number of duplicate elements in that array. Then copy the elements except the duplicate elements of that array into another array and display this array in reverse order.
+3. Write a menu-driven program for accepting values in two square matrix of 3x3 dimension and generate their sum, difference and product.
+4. Write a program to find the range of a set of integers entered by the user. Range is the difference between the smallest and biggest number in the list.
+5. Write a C program which accepts ten integers from user and prints them in ascending order. Use array to store the integers.
